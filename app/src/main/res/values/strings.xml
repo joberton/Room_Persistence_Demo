@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room_Persistence_Demo</string>
+    <string name="update">Update</string>
+    <string name="updateRecipe">Update Recipe</string>
+</resources>
